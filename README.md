@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👩🏻‍🎓 I'm a final year engineering student<br>🔭 Working on full stack projects<br>🌱 Currently exploring Machine Learning
 
 
