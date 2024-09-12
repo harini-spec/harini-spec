@@ -1,5 +1,5 @@
 # About Me:
-👩🏻‍🎓 I'm a final year engineering student<br>🔭 Working on full stack projects<br>🌱 Currently exploring Machine Learning
+👩🏻‍🎓 Passionate Computer Science Engineering graduate<br>🔭 Working on full stack projects
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harini-spec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
